@@ -1,5 +1,6 @@
 body {
   font-family: "PT Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #FCFCFC;
 }
 
 h1 { font-size: 2.1rem; }
@@ -8,6 +9,13 @@ h3 { font-size: 1.7rem; }
 h4,
 h5,
 h6 { font-size: 1.5rem; }
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+}
 
 header,
 footer {
@@ -20,6 +28,7 @@ main {
 }
 
 .container {
+  width: 90%;
   max-width: 600px;
 }
 
@@ -29,7 +38,7 @@ main {
 }
 
 .header-logo img:hover {
-  opacity: 0.75;
+  border-color: #F1F1F1;
 }
 
 .site-title {

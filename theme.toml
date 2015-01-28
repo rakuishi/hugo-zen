@@ -1,6 +1,4 @@
-author = ""
-description = ""
+author = "OCHIISHI Koichiro"
 license = "MIT"
-name = "hugo zen"
-source_repo = ""
-tags = ["", ""]
+name = "Hugo Zen"
+source_repo = "https://github.com/rakuishi/hugo-zen"

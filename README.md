@@ -1,6 +1,6 @@
 # Hugo Zen
 
-Hugo Zen is a minimal hugo theme with [Skelton](https://github.com/dhg/Skeleton/), [Font Awesome](https://github.com/FortAwesome/Font-Awesome/) and has ~100 lines of custom CSS.
+Hugo Zen is a minimal hugo theme with [Skelton](https://github.com/dhg/Skeleton/) and has ~100 lines of custom CSS.
 
 ## Installation & Usage
 
@@ -12,7 +12,7 @@ Clone this repository to your hugo theme directory.
 
 ## Configuration
 
-The following is the example config:
+In this theme you can add variables to your site config file. The following is the example config:
 
 	baseurl = "http://rakuishi.com/"
 	languageCode = "ja"

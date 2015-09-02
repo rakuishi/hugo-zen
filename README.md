@@ -8,8 +8,7 @@ Hugo Zen is a minimal hugo theme with [Skeleton](https://github.com/dhg/Skeleton
 
 Clone this repository to your hugo theme directory.
 
-	$ cd themes
-	$ git clone https://github.com/rakuishi/hugo-zen
+	$ git clone https://github.com/rakuishi/hugo-zen themes
 	$ hugo server --theme=hugo-zen --buildDrafts --watch
 
 ## Configuration

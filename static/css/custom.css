@@ -33,6 +33,8 @@ main {
 }
 
 .header-logo img {
+  width: 60px;
+  height: 60px;
   border-radius: 50%;
   border: 4px solid #E1E1E1;
 }

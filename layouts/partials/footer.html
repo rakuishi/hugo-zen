@@ -7,7 +7,7 @@
 			{{ with .Site.Params.facebook }}<a href="{{ . }}" target="_blank">Facebook</a></span>{{ end }}
 			{{ with .Site.Params.github }}<a href="{{ . }}" target="_blank">GitHub</a></span>{{ end }}
 		</div>
-		<div class="copyright">Copyright &copy; {{ .Site.Params.copyright }}</div>
+		<div class="copyright">Copyright &copy; {{ .Site.Params.copyright | safeHTML }}</div>
 	</footer>
 
 </div>

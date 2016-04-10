@@ -19,10 +19,10 @@ In this theme you can add variables to your site config file. The following is t
 	languageCode = "ja"
 	title = "rakuishi.com"
 	author = "rakuishi"
+	copyright = "rakuishi All rights reserved."
 
 	[params]
 	  logo      = "/images/logo.jpg"
-	  copyright = "rakuishi All rights reserved."
 	  twitter   = "https://twitter.com/rakuishi07"
 	  facebook  = "https://www.facebook.com/ochiishikoichiro"
 	  github    = "https://github.com/rakuishi/"

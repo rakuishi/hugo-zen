@@ -2,7 +2,7 @@
 
 Hugo Zen is a minimal hugo theme with [Skeleton](https://github.com/dhg/Skeleton/) and has ~100 lines of custom CSS.
 
-![screenshot](/images/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/rakuishi/hugo-zen/master/images/screenshot.png)
 
 ## Installation & Usage
 

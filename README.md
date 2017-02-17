@@ -26,6 +26,7 @@ In this theme you can add variables to your site config file. The following is t
 	  twitter   = "https://twitter.com/rakuishi07"
 	  facebook  = "https://www.facebook.com/ochiishikoichiro"
 	  github    = "https://github.com/rakuishi/"
+	  gitlab    = "https://gitlab.com/rakuishi/"
 	  email     = "rakuishi@gmail.com"
 	  analytics = "UA-12345678-9"
 

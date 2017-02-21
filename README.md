@@ -20,6 +20,7 @@ In this theme you can add variables to your site config file. The following is t
 	title = "rakuishi.com"
 	author = "rakuishi"
 	copyright = "rakuishi All rights reserved."
+	googleanalytics = "UA-12345678-9"
 
 	[params]
 	  logo      = "/images/logo.jpg"
@@ -27,7 +28,6 @@ In this theme you can add variables to your site config file. The following is t
 	  facebook  = "https://www.facebook.com/ochiishikoichiro"
 	  github    = "https://github.com/rakuishi/"
 	  email     = "rakuishi@gmail.com"
-	  analytics = "UA-12345678-9"
 
 `copyright` may contain safe HTML, such as a link to a license.
 

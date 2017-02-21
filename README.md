@@ -20,7 +20,7 @@ In this theme you can add variables to your site config file. The following is t
 	title = "rakuishi.com"
 	author = "rakuishi"
 	copyright = "rakuishi All rights reserved."
-    googleanalytics = "UA-12345678-9"
+	googleanalytics = "UA-12345678-9"
 
 	[params]
 	  logo      = "/images/logo.jpg"
